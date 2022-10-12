@@ -9,19 +9,13 @@ most proud of. Want to know more about me? Just visit my socials linked below.
 
 ## Coding Activity
 
-<br />
-
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=jNaimXIII&hide_title=true&theme=transparent&layout=compact)](https://wakatime.com/jNaimXIII)
 
 ## Used Languages
 
-<br />
-
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=jNaimXIII&hide_title=true&theme=transparent&layout=compact)]()
 
 ## Socials
-
-<br />
 
 <a href="https://twitter.com/jNaimXIII">
     <img src="docs/images/twitter.svg" height="44" />
