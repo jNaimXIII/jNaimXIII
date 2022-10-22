@@ -1,5 +1,8 @@
 ![](docs/images/jNaimXIII-banner.png)
 
+> Oi! If you're here to check out my portfolio, this account is still new. Go to
+> my [old github account](https://github.com/JannatinNaim) for that. :wink:
+
 Heyo! How's it going? Just keep scrolling, this is basically my portfolio as a
 developer. It got the projects I'm working on, languages I've coded in and even
 how long I've coded in them. Check out the pinned projects for things that I'm
