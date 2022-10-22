@@ -19,6 +19,10 @@ most proud of. Want to know more about me? Just visit my socials linked below.
 
 ## Socials
 
+<a  target="_blank" href="https://discord.gg/fNQ9EbhVPX">
+    <img alt="Discord"src="docs/images/discord.svg" height="44" />
+</a>
+&nbsp; &nbsp;
 <a  target="_blank" href="https://twitter.com/jNaimXIII">
     <img alt="Twitter"src="docs/images/twitter.svg" height="44" />
 </a>
