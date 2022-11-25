@@ -1,4 +1,4 @@
-![](docs/images/jNaimXIII-banner.png)
+<!-- ![](docs/images/jNaimXIII-banner.png) -->
 
 > Oi! If you're here to check out my portfolio, this account is still new. Go to
 > my [old github account](https://github.com/JannatinNaim) for that. :wink:
