@@ -1,8 +1,3 @@
-<!-- ![](docs/images/jNaimXIII-banner.png) -->
-
-> Oi! If you're here to check out my portfolio, this account is still new. Go to
-> my [old github account](https://github.com/JannatinNaim) for that. :wink:
-
 Heyo! How's it going? Just keep scrolling, this is basically my portfolio as a
 developer. It got the projects I'm working on, languages I've coded in and even
 how long I've coded in them. Check out the pinned projects for things that I'm
@@ -17,11 +12,7 @@ most proud of. Want to know more about me? Just visit my socials linked below.
 
 ![WakaTime Badge](https://wakatime.com/badge/user/16f921d3-bae9-4c22-aba7-3f28247d6dba.svg?style=for-the-badge)
 
-[![WakaTime Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=jNaimXIII&hide_title=true&theme=transparent&layout=compact)](https://wakatime.com/jNaimXIII)
-
-## Used Languages
-
-[![GitHub Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jNaimXIII&hide_title=true&theme=transparent&layout=compact)]()
+[![WakaTime Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=jNaimXIII&hide_title=true&theme=transparent&layout=compact&langs_count=12)](https://wakatime.com/jNaimXIII)
 
 ## Socials
 
@@ -42,3 +33,8 @@ most proud of. Want to know more about me? Just visit my socials linked below.
 </a>
 
 </div>
+
+<br />
+
+> Oi! If you're here to check out my portfolio, this account is still new. Go to
+> my [old github account](https://github.com/JannatinNaim) for that. :wink:
