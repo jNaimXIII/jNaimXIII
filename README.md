@@ -10,7 +10,7 @@ most proud of. Want to know more about me? Just visit my socials linked below.
 
 ## Coding Activity
 
-![WakaTime Badge](https://wakatime.com/badge/user/16f921d3-bae9-4c22-aba7-3f28247d6dba.svg?style=for-the-badge)
+[![WakaTime Badge](https://wakatime.com/badge/user/16f921d3-bae9-4c22-aba7-3f28247d6dba.svg?style=for-the-badge)](https://wakatime.com/jNaimXIII)
 
 [![WakaTime Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=jNaimXIII&hide_title=true&theme=transparent&layout=compact&langs_count=12)](https://wakatime.com/jNaimXIII)
 
