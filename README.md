@@ -3,9 +3,6 @@ developer. It got the projects I'm working on, languages I've coded in and even
 how long I've coded in them. Check out the pinned projects for things that I'm
 most proud of. Want to know more about me? Just visit my socials linked below.
 
-> For those of you (probably everyone) that don't get [what my status
-> means](https://youtu.be/WYY7YM3E9aw?t=411).
-
 <div align="center">
 
 ## Coding Activity
@@ -33,8 +30,3 @@ most proud of. Want to know more about me? Just visit my socials linked below.
 </a>
 
 </div>
-
-<br />
-
-> Oi! If you're here to check out my portfolio, this account is still new. Go to
-> my [old github account](https://github.com/JannatinNaim) for that. :wink:
