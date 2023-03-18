@@ -29,3 +29,5 @@ Nothing ever goes as planned in this accursed world. - _Uchiha Madara_
 </a>
 
 </div>
+
+> BTW, I have a [legacy account](https://github.com/JannatinNaim). You can check that as well if you want.
