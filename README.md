@@ -28,7 +28,7 @@ Nothing ever goes as planned in this accursed world. - _Uchiha Madara_
     <img alt="YouTube" src="docs/images/youtube.svg" height="32" />
 </a>
 
-    Just visit https://jannatinnaim.com for anything else.
+Just visit https://jannatinnaim.com for anything else.
     
 </div>
 
