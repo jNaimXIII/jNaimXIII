@@ -28,6 +28,8 @@ Nothing ever goes as planned in this accursed world. - _Uchiha Madara_
     <img alt="YouTube" src="docs/images/youtube.svg" height="32" />
 </a>
 
+    Just visit https://jannatinnaim.com for anything else.
+    
 </div>
 
 > BTW, I have a [legacy account](https://github.com/JannatinNaim). You can check that as well if you want.
