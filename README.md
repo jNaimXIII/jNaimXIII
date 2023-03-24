@@ -2,6 +2,8 @@
 
 # Heyo! How's it going?
 
+</div>
+
 > Wake up to reality! Nothing ever goes as planned in this accursed world. The
 > longer you live the more you’ll realize, that the only things that truly exist
 > in this reality are merely pain, suffering and futility.
@@ -21,6 +23,8 @@
 > **_For truly this reality… is a hell._**
 >
 > -- Uchiha Madara
+
+<div align="center">
 
 ## Coding Activity
 
