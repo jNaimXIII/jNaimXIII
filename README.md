@@ -2,7 +2,7 @@
 
 # Heyo! How's it going?
 
-Nothing ever goes as planned in this accursed world. - _Uchiha Madara_
+> Nothing ever goes as planned in this accursed world. - _Uchiha Madara_
 
 ## Coding Activity
 
