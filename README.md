@@ -2,6 +2,11 @@
 
 # Heyo! How's it going?
 
+> You need to embrace what you have. You need to embrace your own talent. "I
+> wanna be more like him!" but, maybe... ten thousand people wanna be more like
+> you.
+> -- [Anthony GG](https://twitter.com/anthdm)
+
 </div>
 
 <div align="center">
@@ -30,7 +35,7 @@
     <img alt="YouTube" src="docs/images/youtube.svg" height="32" />
 </a>
 
-Just visit https://jannatinnaim.com for anything else.
+Just visit <https://jannatinnaim.com> for anything else.
 
 </div>
 
