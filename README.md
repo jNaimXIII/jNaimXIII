@@ -2,12 +2,27 @@
 
 # Heyo! How's it going?
 
-> You need to embrace what you have. You need to embrace your own talent. "I
-> wanna be more like him!" but, maybe... ten thousand people wanna be more like
-> you.
-> -- [Anthony GG](https://twitter.com/anthdm)
-
 </div>
+
+> Everything that you thought had meaning; every hope, dream or moment of
+> happiness… none of it matters, as you lie bleeding out on the battlefield.
+> None of it changes what a speeding rock does to a body. We all die.
+
+> But does that mean our lives are meaningless? Does that mean that there was
+> no point in our being born? Would you say that of our slain comrades? What
+> about their lives? Were they meaningless?
+
+> They were not! Their memory serves as an example to us all. The courageous
+> fallen! The anguished fallen! Their lives have meaning because we, the
+> living, refuse to forget them. And as we ride to certain death, we trust our
+> successors to do the same for us. Because my soldiers do not buckle or yield
+> when faced with the cruelty of this world.
+
+> **MY SOLDIERS PUSH FORWARD!**\
+> **MY SOLDIERS SCREAM OUT!**\
+> **MY SOLDIERS RAGE!!!**
+
+> -- Erwin Smith
 
 <div align="center">
 
