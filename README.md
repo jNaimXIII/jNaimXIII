@@ -10,6 +10,8 @@ Look around to see what kind of stuff I build and work on.
 
 [![WakaTime Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=jNaimXIII&hide_title=true&theme=transparent&layout=compact&langs_count=12&range=all_time)](https://wakatime.com/jNaimXIII)
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/jNaimXIII?theme=light&font=Roboto)](https://leetcode.com/jNaimXIII)    
+    
 ## Socials
 
 <a  target="_blank" href="https://discord.gg/fNQ9EbhVPX">
